@@ -58,3 +58,7 @@ yarn test
 4. Enable Git Gateway.
 
 _Note: You'll need to specify the Netlify URL when browsing the admin page locally._
+
+## Colabore com esse projeto
+
+<iframe src="https://github.com/sponsors/johnnyvaz/card" title="Sponsor johnnyvaz" height="225" width="600" style="border: 0;"></iframe>
