@@ -1,26 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3cafc826-7e46-4c0d-b562-e7badcb25e94/deploy-status)](https://app.netlify.com/sites/desligue-se/deploys)
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
 
-So far we've got:
-
-- Blog w/ posts, including pagination.
-- Configurable manifest & global settings.
-- CSS Markdown (Thanks to [https://github.com/iandinwoodie/github-markdown-tailwindcss/blob/master/markdown.css]).
-- Dynamic pages.
-- PWA ready.
-- SEO ready for posts & pages.
-- Signup form (using Netlify Forms).
-- Tools (Commitlint, Husky).
-- Typescript.
-
-Few things I'd like to add in the future:
-
-- Contact form under \_slug.
-- Dynamic sections/widgets.
-- Responsive CSS markdown.
-- Tests
+Em desenvolvimento
 
 ## Quickstart
 
@@ -59,6 +40,3 @@ yarn test
 
 _Note: You'll need to specify the Netlify URL when browsing the admin page locally._
 
-## Colabore com esse projeto
-
-<iframe src="https://github.com/sponsors/johnnyvaz/card" title="Sponsor johnnyvaz" height="225" width="600" style="border: 0;"></iframe>
